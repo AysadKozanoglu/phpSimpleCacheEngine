@@ -6,7 +6,7 @@ cache php generated files, cms contents or simple php files staticly.
 add top of your general code (like index.php) 
 <pre>include( "cache-head.php" );</pre>
   
- ... your php cotent ....
+ ... your php content ....
    
 add bottom of your general code (like index.php)
  <pre>include ( "cache-foot.php" );</pre>
