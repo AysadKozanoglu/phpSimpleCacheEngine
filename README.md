@@ -4,7 +4,8 @@ cache php generated files, cms contents or simple php files staticly.
 ## usage ##
 
 add top of your general code (like index.php) 
-  include( "cache-head.php" );
+
+include( "cache-head.php" );
 
 add bottom of your general code (like index.php)
 
